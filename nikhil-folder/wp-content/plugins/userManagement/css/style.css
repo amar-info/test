@@ -1,0 +1,8 @@
+#the-list .status-pending th.check-column {
+    border-left: 4px solid #D54E21;
+}
+#the-list .status-pending th, #the-list .status-pending td {
+    background-color: #FEFAF7;
+}
+.subsubsub .count{display:none;}
+.sub_news .wrapper{height:50px;float:left;} 
